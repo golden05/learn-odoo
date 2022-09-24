@@ -10,7 +10,8 @@ Welcome to learn-odoo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   core/index
+   about 
 
 Indices and tables
 ==================
